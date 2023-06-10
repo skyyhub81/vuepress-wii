@@ -1,0 +1,6 @@
+*.lock
+*.log
+.temp
+.cache
+node_modules
+docs/.vuepress/dist
